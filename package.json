@@ -1,15 +1,7 @@
 {
-  "homepage": "https://thanosdrome.github.io/Material_Dashboard/",
-  "name": "material-dashboard-2-react",
+  "name": "material-dashboard",
   "version": "2.2.0",
-  "private": true,
-  "bugs": {
-    "url": "https://github.com/thanosdrome/Material_Dashboard/issues"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/thanosdrome/Material_Dashboard.git"
-  },
+  "homepage": "https://thanosdrome.github.io/Material_Dashboard/",
   "script": {
     "start": "react-script start",
     "build": "react-scripts build",
@@ -17,6 +9,13 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
+  },
+  "bugs": {
+    "url": "https://github.com/thanosdrome/Material_Dashboard/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thanosdrome/Material_Dashboard.git"
   },
   "dependencies": {
     "@emotion/cache": "11.10.8",
